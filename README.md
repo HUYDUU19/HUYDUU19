@@ -24,7 +24,7 @@ I'm **DU HAN HUY**, a **Vietnamese Full-Stack Developer**  with international wo
 ###  **Personal Information**
 -  **Nationality:** Vietnamese
 -  **Email:** huyduu19@gmail.com  
--  **Phone:** +84 839 191 200  
+-  **Phone:** +84 829 191 200  
 -  **Current Location:** Ho Chi Minh City, Vietnam  
 -  **International Experience:** Taiwan (2021-2024)
 
