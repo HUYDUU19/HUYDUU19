@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a **Full-Stack Developer** with international experience from **Taiwan** 🇹🇼, specializing in end-to-end application development from mobile frontends to backend APIs. I excel in **AI/ML integration** and have proven experience leading development teams to deliver production-ready applications.
+I'm a **Vietnamese Full-Stack Developer** with international work experience in **Taiwan** 🇹🇼, specializing in end-to-end application development from mobile frontends to backend APIs. I excel in **AI/ML integration** and have proven experience leading development teams to deliver production-ready applications.
 
 ### 📍 **Personal Information**
 - 📧 **Email:** huyduu19@gmail.com  
@@ -240,7 +240,7 @@ Seeking to join a professional development team where I can apply my full-stack 
 </div>
 
 <div align="center">
-  <h3>⭐️ "Building the future, one line of code at a time" ⭐️</h3>
+  <h3>⭐️ "Vietnamese Developer Building the Future, One Line of Code at a Time" ⭐️</h3>
   <p><strong>🚀 Available for Full-Stack Development Opportunities | Team Leadership | AI/ML Projects 🚀</strong></p>
 </div>
 
