@@ -2,14 +2,20 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Vietnamese+Developer+%7C+International+Experience;Flutter+%7C+Node.js+%7C+AI+Integration)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Vietnamese+Developer+%7C+International+Experience;Flutter+%7C+Node.js+%7C+AI+Integration;Team+Leader+%7C+4%2B+Member+Teams)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HUYDUU19&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/HUYDUU19?style=for-the-badge&color=blue&labelColor=1c1917)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300">
+
 </div>
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 **Vietnamese Full-Stack Developer** with proven track record in **end-to-end application development** and **team leadership**. Currently specializing in **AI integration** and **cross-platform mobile development**.
 
@@ -24,9 +30,15 @@
 - 🤝 **Looking to collaborate:** Open source projects, AI/ML applications
 - 💬 **Ask me about:** Flutter, Node.js, AI Integration, Team Leadership
 
+<br clear="right"/>
+
 ---
 
 ## 🏆 Featured Projects Portfolio
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="200">
+</div>
 
 ### 🥇 [Recipe App AI - Full-Stack AI Platform](https://github.com/Nguyen99QT/RecipeApp)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -106,6 +118,10 @@
 ## 💻 Technology Stack
 
 <div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
+</div>
+
+<div align="center">
 
 ### 🎨 Frontend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -150,6 +166,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="150">
+</div>
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HUYDUU19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -162,6 +182,10 @@
 ---
 
 ## 🎖️ Professional Achievements
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="250" height="200">
+</div>
 
 ### 🚀 Development Accomplishments
 - **✅ Team Leadership:** Successfully leading 4-member Recipe App AI development team
@@ -188,6 +212,10 @@
 
 ## 🔥 Current Goals & Learning
 
+<div align="center">
+<img src="https://media.giphy.com/media/cIn5fTcjnKD5mGIkUE/giphy.gif" width="300" height="200">
+</div>
+
 ![AI Integration](https://img.shields.io/badge/🎯%20AI%2FML%20Integration-Exploring%20advanced%20APIs-blue?style=for-the-badge)
 ![Cloud Architecture](https://img.shields.io/badge/☁️%20Cloud%20Architecture-AWS%20%2F%20GCP%20deployment-green?style=for-the-badge)
 ![Team Leadership](https://img.shields.io/badge/👥%20Team%20Leadership-Scaling%20development%20teams-purple?style=for-the-badge)
@@ -209,6 +237,8 @@
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### 🌟 "Vietnamese Developer Building the Future, One Line of Code at a Time"
 
@@ -245,7 +275,11 @@
 
 *"Passionate about creating innovative solutions that bridge technology and real-world needs."*
 
+<img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="50">
+
 **⭐ Star my repositories if you find them useful!**  
 **🤝 Open to collaboration on exciting projects!**
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">
 
 </div>
