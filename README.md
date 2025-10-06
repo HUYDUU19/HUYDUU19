@@ -35,10 +35,12 @@
 ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Role:** Solo Full-Stack Developer & Project Lead  
+**Role:** Team Leader & Full-Stack Developer  
+**Team:** 4-member development team  
 **Status:** Active Development (2024 - Present)
 
 **🎯 Key Achievements:**
+- ✅ **Team Leadership:** Successfully leading 4-member development team
 - ✅ **AI Integration Success:** 90%+ successful recipe generation with Google Gemini API
 - ✅ **Full-Stack Architecture:** Mobile app + Web admin panel + RESTful backend
 - ✅ **Production Ready:** JWT authentication, error handling, scalability
@@ -162,9 +164,10 @@
 ## 🎖️ Professional Achievements
 
 ### 🚀 Development Accomplishments
+- **✅ Team Leadership:** Successfully leading 4-member Recipe App AI development team
 - **✅ AI Integration Mastery:** Successfully integrated Google Gemini API with 90%+ success rate
 - **✅ Full-Stack Expertise:** Built complete applications from mobile frontend to backend APIs
-- **✅ Team Leadership:** Led 3-member team to successful e-commerce platform deployment
+- **✅ Multi-Project Leadership:** Led teams on both Recipe App AI (4 members) and Gracious Garments (3 members)
 - **✅ Production Deployments:** Multiple live applications with verifiable demos
 - **✅ Clean Architecture:** Implemented scalable, maintainable code patterns
 
@@ -176,9 +179,9 @@
 - **✅ AI/ML Integration:** Custom prompt engineering and image processing pipelines
 
 ### 🏆 Career Progression
-- **2024-Present:** Solo Full-Stack Developer (Recipe App AI)
-- **2023:** Team Leader (Gracious Garments E-commerce)
-- **2023:** Backend Developer (E-Administration System)
+- **2024-Present:** Team Leader (Recipe App AI - 4 members)
+- **2023:** Team Leader (Gracious Garments E-commerce - 3 members)
+- **2023:** Backend Developer (E-Administration System - 4 members)
 - **2021-2024:** International Work Experience (Taiwan Manufacturing)
 
 ---
@@ -228,7 +231,7 @@
 
 | Project | Role | Tech Stack | Status | Demo |
 |---------|------|------------|--------|------|
-| 🥇 Recipe App AI | Solo Developer | Flutter + Node.js + AI | Active | [GitHub](https://github.com/Nguyen99QT/RecipeApp) |
+| 🥇 Recipe App AI | Team Leader | Flutter + Node.js + AI | Active | [GitHub](https://github.com/Nguyen99QT/RecipeApp) |
 | 🥈 Gracious Garments | Team Leader | JS + SCSS + HTML | Live | [Demo](https://dddo1901-github-io.git-main-doanducdos-projects.vercel.app/) |
 | 🥉 E-Administration | Backend Dev | C# + SQL Server | Complete | [GitHub](https://github.com/MinhHieu0412/E-Administration-of-Computer-Labs) |
 
